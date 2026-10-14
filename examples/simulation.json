@@ -1,0 +1,14 @@
+{
+  "initial_state": {"energy": 50, "strain": 20, "momentum": 10},
+  "paths": {
+    "balanced": [
+      {"demand": 5, "recovery": 3, "opportunity": 4},
+      {"demand": 2, "recovery": 6, "opportunity": 1}
+    ],
+    "high_demand": [
+      {"demand": 10, "recovery": 0, "opportunity": 2},
+      {"demand": 10, "recovery": 1, "opportunity": 1}
+    ],
+    "no_change": []
+  }
+}
